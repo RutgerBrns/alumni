@@ -1,0 +1,21 @@
+.signin-btn {
+	margin-right: 12px;
+}
+
+#country_select {
+    font-size: 22px;
+    padding: 0.25em;
+    border-radius: 0.25em;
+    display: inline-block;
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+p {
+	font-family: 'Raleway', sans-serif;
+}
+
+h1, h2, h3, h4, h5 , h6 {
+	font-family: 'Raleway', sans-serif;
+} 
